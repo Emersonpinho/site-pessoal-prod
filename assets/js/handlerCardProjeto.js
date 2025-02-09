@@ -14,10 +14,10 @@ const todosProjetos  = [
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Top Musics',
-        githubLink: 'https://github.com/LucasFelip/TopMusic',
-        descricao: 'Projeto de interface para a listagem e detalhes de dados para o usuário, dados da API do Spotify.',
-        tipos: ['Swift', 'UIKit'],
+        titulo: 'IA de pravisão de créditos dos clientes',
+        githubLink: 'https://github.com/Emersonpinho/IAprevisoes',
+        descricao: 'Este projeto tem como objetivo desenvolver um sistema de inteligência artificial que prevê o score de crédito de clientes de um banco. Utilizando técnicas de análise de dados e machine learning, o modelo é capaz de categorizar o score de crédito em três níveis distintos',
+        tipos: ['JUPYTER NOTEBOOK ',],
         tipoProjeto: 'Pessoal'
     },
     {

@@ -21,15 +21,15 @@ const todosProjetos  = [
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Vendedores',
-        githubLink: 'https://github.com/LucasFelip/projeto-sds3',
-        descricao: 'Sistema relatório de dados de vendas de funcionários com uma interface em React e uma API Spring.',
-        tipos: ['Java', 'Spring', 'React'],
+        titulo: 'Controles de metas via terminal',
+        githubLink: 'https://github.com/Emersonpinho/controleDeMetasViaTerminal',
+        descricao: 'App de Metas é um aplicativo simples e eficaz de gerenciamento de objetivos que ajuda os usuários a planejar, acompanhar e concluir suas metas de maneira organizada e prática. Com uma interface interativa no terminal.',
+        tipos: ['Javascript'],
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'ListJogos',
-        githubLink: 'https://github.com/LucasFelip/sistemaDeRecomendacaoJogos',
+        titulo: 'Controles de metas via terminal',
+        githubLink: '',
         descricao: 'Sistema que recomenda jogos com base no parâmetro IMDB e com parâmetros solicitados pelo usuário.',
         tipos: ['Python', 'Analysts'],
         tipoProjeto: 'Pessoal'

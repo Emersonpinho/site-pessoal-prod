@@ -1,9 +1,9 @@
 const todosProjetos  = [
     {
-        titulo: 'Curriculum',
-        githubLink: 'https://github.com/LucasFelip/site-pessoal',
-        descricao: 'Site currículo que apresenta informações relevantes sobre minha trajetória profissional e projetos.',
-        tipos: ['HTML', 'CSS', 'JS', 'Bootstrap'],
+        titulo: 'Hashzap',
+        githubLink: 'https://github.com/Emersonpinho/Hashzap',
+        descricao: 'Hashzap é um aplicativo de chat desenvolvido em Python com a biblioteca Flet. Ele permite a interação em tempo real, sendo ideal para aprender sobre construção de interfaces dinâmicas e comunicação em tempo real.',
+        tipos: ['HTML', 'PYTHON'],
         tipoProjeto: 'Pessoal'
     },
     {

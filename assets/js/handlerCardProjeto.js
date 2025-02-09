@@ -7,10 +7,10 @@ const todosProjetos  = [
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Hamburger',
-        githubLink: 'https://github.com/LucasFelip/API-hambugueria',
-        descricao: 'API desenvolvida para auxiliar o gerenciamento de hamburgueria com operações basicas de funcionamento.',
-        tipos: ['Java', 'Spring', 'MySQL'],
+        titulo: 'Automação de login',
+        githubLink: 'https://github.com/Emersonpinho/automacaoDeLogin',
+        descricao: 'Este projeto demonstra uma automação simples para fazer login em um sistema web e cadastrar produtos de uma base de dados utilizando a biblioteca PyAutoGUI. Com o uso do Python, a automação é capaz de abrir o navegador, acessar uma página de login, realizar o login automaticamente e, em seguida, cadastrar produtos a partir de um arquivo CSV.',
+        tipos: ['PYTHON', 'PyAutoGUI'],
         tipoProjeto: 'Pessoal'
     },
     {

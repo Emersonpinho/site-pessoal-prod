@@ -28,10 +28,10 @@ const todosProjetos  = [
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Controles de metas via terminal',
+        titulo: 'Analise de cancelamento de cliente',
         githubLink: '',
-        descricao: 'Sistema que recomenda jogos com base no parâmetro IMDB e com parâmetros solicitados pelo usuário.',
-        tipos: ['Python', 'Analysts'],
+        descricao: 'O principal objetivo deste projeto é reduzir a taxa de cancelamento através da aplicação de medidas específicas que ajudam a identificar clientes que estão mais propensos a cancelar e tomar ações preventivas para retenção. Feito com dedicação para ajudar a melhorar a retenção de clientes 💪.',
+        tipos: ['Jupyter Notebook'],
         tipoProjeto: 'Pessoal'
     },
     {

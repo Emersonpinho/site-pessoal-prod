@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="/assets/js/imports.js"></script>
+    <link href="/assets/css/cardProjeto.css" rel="stylesheet">
+    <link href="/assets/css/cardExp.css" rel="stylesheet">
+
+    <title>Lucas Ferreira</title>
+</head>
+<body>
+<header>
+    <div data-include="section/navbar.html"></div>
+</header>
+
+<main class="container-fluid text-center lh-lg">
+    <section id="principal" class="container text-center">
+        <div class="profile-content">
+            <div class="profile-info">
+                <h1 class="name">Lucas Ferreira</h1>
+                <p class="position">Desenvolvedor Java</p>
+            </div>
+            <p id="sobre-texto">
+                Sou Lucas Ferreira, desenvolvedor especializado em Java com foco no backend, mas com conhecimento em diversas outras linguagens e tecnologias. Possuo formação técnica em Redes de Computadores, bacharelado em Sistemas de Informação e atualmente sou mestrando em Ciência da Computação. Minha trajetória é marcada pela busca contínua por aprendizado, inovação e pelo desejo de contribuir com soluções tecnológicas que impactem positivamente pessoas e organizações.
+            </p>
+        </div>
+    </section>
+
+    <section class="border-top py-4">
+        <div id="projetos" class="py-4">
+            <h2>Projetos Acadêmicos e Pessoais</h2>
+            <div id="projetosContainer" class="row justify-content-center"></div>
+            <button id="loadMoreButton" class="load-more-button">Exibir mais projetos</button>
+        </div>
+
+        <div id="experiencias" class="py-4 ">
+            <h2>Experiências</h2>
+            <div class="row justify-content-center  py-2" id="experienciaContainer"></div>
+        </div>
+
+        <div class="py-4" data-include="section/contacts.html"></div>
+    </section>
+    <div data-include="section/footer.html"></div>
+</main>
+</body>
+</html>

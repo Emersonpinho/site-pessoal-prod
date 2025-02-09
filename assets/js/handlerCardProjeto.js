@@ -35,10 +35,10 @@ const todosProjetos  = [
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Redes',
-        githubLink: 'https://github.com/LucasFelip/AmbienteRedesComputadores',
-        descricao: 'Ambiente de redes de computadores focando no desenvolvimento de rede com servidores e PC\'s.',
-        tipos: ['Redes de computadores', 'Cisco'],
+        titulo: 'Site para meus ceritifidos',
+        githubLink: 'emersonpinho.github.io/siteParaMeusCertificados/',
+        descricao: 'Este projeto é um site desenvolvido para exibir e organizar certificados de cursos e formações de maneira prática e visual.',
+        tipos: ['Html', 'Css', 'Javacript'],
         tipoProjeto: 'Pessoal'
     },
     {

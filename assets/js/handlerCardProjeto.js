@@ -42,17 +42,17 @@ const todosProjetos  = [
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'iMobility',
-        githubLink: 'https://github.com/LucasFelip/iMobility',
-        descricao: 'Aplicativo iOS para registro de problemas em vias públicas e análise de ocorrências.',
-        tipos: ['Swift', 'SwiftUI', 'MapKIT'],
+        titulo: 'Site conversor de moedas 🪙',
+        githubLink: 'https://github.com/Emersonpinho/siteConversoDeMoedas',
+        descricao: 'Este projeto permite que você converta valores entre diversas moedas de maneira rápida e prática, além de pesquisar por moedas disponíveis. 🌍💱',
+        tipos: ['Html', 'Css', 'Javascript'],
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Ponto Eletrônico',
-        githubLink: 'https://github.com/LucasFelip/pontoEletronico',
-        descricao: 'Sistema de ponto eletrônico para cálculo de horas extras e atrasos, com base nas horas de trabalho e na marcação',
-        tipos: ['Java', 'Spring', 'JS', 'Bootstrap'],
+        titulo: '🔐 Gerador de Senhas Fortes',
+        githubLink: 'https://github.com/Emersonpinho/GeradorSenha',
+        descricao: 'Um projeto em Python para gerar senhas seguras, customizáveis e difíceis de quebrar! As senhas podem incluir uma combinação de letras maiúsculas, letras minúsculas, números e caracteres especiais, atendendo a diferentes níveis de segurança.',
+        tipos: ['Python'],
         tipoProjeto: 'Pessoal'
     },
     {

@@ -35,7 +35,7 @@ const todosProjetos  = [
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Site para meus ceritifidos',
+        titulo: 'Site para meus certificados',
         githubLink: 'https://github.com/Emersonpinho/siteParaMeusCertificados',
         descricao: 'Este projeto é um site desenvolvido para exibir e organizar certificados de cursos e formações de maneira prática e visual.',
         tipos: ['Html', 'Css', 'Javacript'],

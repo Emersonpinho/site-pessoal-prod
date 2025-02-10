@@ -56,10 +56,10 @@ const todosProjetos  = [
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Gestão Financeira',
+        titulo: '📚 Estudo de Algoritmos com Obsidian',
         githubLink: 'https://github.com/LucasFelip/gestao',
-        descricao: 'Sistema de Gestão Financeira para controle de gastos e ganhos para cada usuário logado, para planejamento financeiro',
-        tipos: ['Java', 'Spring', 'JS', 'MySQL'],
+        descricao: '! Neste repositório, eu compartilho meus resumos, mapas mentais e exercícios baseados no livro "Entendendo Algoritmos". Este projeto é organizado utilizando o Obsidian para uma melhor visualização e estruturação do conhecimento.',
+        tipos: ['Obsidian'],
         tipoProjeto: 'Pessoal'
     },
     {

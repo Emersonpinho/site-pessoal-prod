@@ -58,21 +58,22 @@ const todosProjetos  = [
     {
         titulo: '📚 Estudo de Algoritmos com Obsidian',
         githubLink: 'https://github.com/LucasFelip/gestao',
-        descricao: '! Neste repositório, eu compartilho meus resumos, mapas mentais e exercícios baseados no livro "Entendendo Algoritmos". Este projeto é organizado utilizando o Obsidian para uma melhor visualização e estruturação do conhecimento.',
+        descricao: 'Neste repositório, eu compartilho meus resumos, mapas mentais e exercícios baseados no livro "Entendendo Algoritmos". Este projeto é organizado utilizando o Obsidian para uma melhor visualização e estruturação do conhecimento.',
         tipos: ['Obsidian'],
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Aplicativo de Transporte Vai de Ferry',
-        descricao: 'Desenvolvimento do backend para aplicativo que fornece informações de transporte ferroviário e aquático.',
-        tipos: ['Java', 'Spring Boot', 'PostgreSQL'],
+        titulo: '🧮 Big O Notation Simplificada',
+        githubLink: 'https://github.com/Emersonpinho/big-notation',
+        descricao: 'Aqui, você aprenderá sobre a notação Big O de uma maneira descomplicada e divertida. 🎉',
+        tipos: ['javascript'],
         tipoProjeto: 'Acadêmico'
     },
     {
-        titulo: 'Tabuleiro BD - Jogo Educacional',
-        descricao: 'Assistência técnica no desenvolvimento de um jogo para ensino de banco de dados, com gamificação.',
-        tipos: ['Gamificação', 'Banco de Dados'],
-        tipoProjeto: 'Acadêmico'
+        titulo: 'Código Fonte deste site',
+        descricao: 'SIMM! O Código fonte de site é aberto e você pode usar livremente!🥳 Este projeto é uma combinação de HTML, CSS e JavaScript para criar uma página web interativa e visualmente atraente. Este é o código-fonte do meu site pessoal, onde compartilho informações sobre mim, meus projetos, e outras novidades. O objetivo é criar um espaço online que reflita minha personalidade e habilidades como desenvolvedor.',
+        tipos: ['Html', 'css', 'Javascript'],
+        tipoProjeto: 'Pessoal'
     },
     {
         titulo: 'Aplicativo Educativo sobre Segurança da Informação',

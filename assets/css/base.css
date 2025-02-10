@@ -41,7 +41,7 @@ main {
     font-size: 3.2rem;
     font-weight: 700;
     color: var(--text-color);
-    background: linear-gradient(90deg, var(--highlight-color), #5E5CE6);
+    background: linear-gradient(90deg, var(--highlight-color), #ff6161);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }

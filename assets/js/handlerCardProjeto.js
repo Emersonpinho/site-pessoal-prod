@@ -76,8 +76,9 @@ const todosProjetos  = [
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Aplicativo Educativo sobre Segurança da Informação',
-        descricao: 'Aplicativo interativo para ensino de segurança da informação com jogos educativos.',
+        titulo: 'Jogo da Velha',
+        githubLink: 'https://github.com/Emersonpinho/-Jogo-da-velha',
+        descricao: 'Este é um jogo da velha simples desenvolvido em Python. O jogo permite que dois jogadores joguem em um tabuleiro 3x3, alternando entre os símbolos "X" ❌ e "O" ⭕. O primeiro jogador a alinhar três de seus símbolos na horizontal, vertical ou diagonal vence o jogo.',
         tipos: ['Segurança', 'Educação', 'Desenvolvimento'],
         tipoProjeto: 'Acadêmico'
     }

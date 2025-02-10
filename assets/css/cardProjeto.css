@@ -38,7 +38,7 @@
     font-size: 0.9rem;
     font-weight: 500;
     color: white;
-    background: linear-gradient(90deg, var(--highlight-color), #5E5CE6);
+    background: linear-gradient(90deg, var(--highlight-color), #ff5a5a);
     border-radius: 6px;
     text-decoration: none;
     transition: background 0.3s ease, transform 0.2s ease;
@@ -46,6 +46,6 @@
 }
 
 .project-card__button:hover {
-    background: linear-gradient(90deg, #5E5CE6, var(--highlight-color));
+    background: linear-gradient(90deg, #7797c2, var(--highlight-color));
     transform: scale(1.05);
 }

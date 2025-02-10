@@ -1,48 +1,48 @@
 const todosProjetos  = [
     {
-        titulo: 'Hashzap',
+        titulo: '💬 Hashzap',
         githubLink: 'https://github.com/Emersonpinho/Hashzap',
         descricao: 'Hashzap é um aplicativo de chat desenvolvido em Python com a biblioteca Flet. Ele permite a interação em tempo real, sendo ideal para aprender sobre construção de interfaces dinâmicas e comunicação em tempo real.',
         tipos: ['HTML', 'PYTHON'],
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Automação de login',
+        titulo: '🧑‍💻 Automação de login',
         githubLink: 'https://github.com/Emersonpinho/automacaoDeLogin',
         descricao: 'Este projeto demonstra uma automação simples para fazer login em um sistema web e cadastrar produtos de uma base de dados utilizando a biblioteca PyAutoGUI. Com o uso do Python, a automação é capaz de abrir o navegador, acessar uma página de login, realizar o login automaticamente e, em seguida, cadastrar produtos a partir de um arquivo CSV.',
         tipos: ['PYTHON', 'PyAutoGUI'],
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'IA de pravisão de créditos dos clientes',
+        titulo: '🦾 IA de pravisão de créditos dos clientes',
         githubLink: 'https://github.com/Emersonpinho/IAprevisoes',
         descricao: 'Este projeto tem como objetivo desenvolver um sistema de inteligência artificial que prevê o score de crédito de clientes de um banco. Utilizando técnicas de análise de dados e machine learning, o modelo é capaz de categorizar o score de crédito em três níveis distintos',
         tipos: ['JUPYTER NOTEBOOK ',],
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Controles de metas via terminal',
+        titulo: '📝 Controles de metas via terminal',
         githubLink: 'https://github.com/Emersonpinho/controleDeMetasViaTerminal',
         descricao: 'App de Metas é um aplicativo simples e eficaz de gerenciamento de objetivos que ajuda os usuários a planejar, acompanhar e concluir suas metas de maneira organizada e prática. Com uma interface interativa no terminal.',
         tipos: ['Javascript'],
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Analise de cancelamento de cliente',
+        titulo: '📊 Analise de cancelamento de cliente',
         githubLink: 'https://github.com/Emersonpinho/analiseDeCancelamentoDeClientes',
         descricao: 'O principal objetivo deste projeto é reduzir a taxa de cancelamento através da aplicação de medidas específicas que ajudam a identificar clientes que estão mais propensos a cancelar e tomar ações preventivas para retenção. Feito com dedicação para ajudar a melhorar a retenção de clientes 💪.',
         tipos: ['Jupyter Notebook'],
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Site para meus certificados',
+        titulo: '📜 Site para meus certificados',
         githubLink: 'https://github.com/Emersonpinho/siteParaMeusCertificados',
         descricao: 'Este projeto é um site desenvolvido para exibir e organizar certificados de cursos e formações de maneira prática e visual.',
         tipos: ['Html', 'Css', 'Javacript'],
         tipoProjeto: 'Pessoal'
     },
     {
-        titulo: 'Site conversor de moedas 🪙',
+        titulo: '🪙 Site conversor de moedas',
         githubLink: 'https://github.com/Emersonpinho/siteConversoDeMoedas',
         descricao: 'Este projeto permite que você converta valores entre diversas moedas de maneira rápida e prática, além de pesquisar por moedas disponíveis. 🌍💱',
         tipos: ['Html', 'Css', 'Javascript'],
@@ -70,7 +70,7 @@ const todosProjetos  = [
         tipoProjeto: 'Acadêmico'
     },
     {
-        titulo: 'Código Fonte deste site',
+        titulo: '💾 Código Fonte deste site',
         descricao: 'SIMM! O Código fonte de site é aberto e você pode usar livremente!🥳 Este projeto é uma combinação de HTML, CSS e JavaScript para criar uma página web interativa e visualmente atraente. Este é o código-fonte do meu site pessoal, onde compartilho informações sobre mim, meus projetos, e outras novidades. O objetivo é criar um espaço online que reflita minha personalidade e habilidades como desenvolvedor.',
         tipos: ['Html', 'css', 'Javascript'],
         tipoProjeto: 'Pessoal'

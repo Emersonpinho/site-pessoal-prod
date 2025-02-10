@@ -39,7 +39,7 @@
     font-weight: 500;
     color: white;
     background: linear-gradient(90deg, var(--highlight-color), #ff5a5a);
-    border-radius: 6px;
+    border-radius: 15px;
     text-decoration: none;
     transition: background 0.3s ease, transform 0.2s ease;
     align-self: flex-start;

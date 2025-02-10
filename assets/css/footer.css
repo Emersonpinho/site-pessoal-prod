@@ -1,3 +1,17 @@
+.profile-picture {
+    display: flex;
+    justify-content: center; /* Centraliza a imagem */
+    margin-bottom: 10px; /* Dá um espaço entre a foto e o nome */
+}
+
+.profile-pic {
+    width: 120px; /* Ajuste o tamanho da imagem */
+    height: 120px;
+    border-radius: 50%; /* Deixa a imagem redonda */
+    object-fit: cover; /* Ajusta a imagem dentro do círculo */
+    border: 3px solid #4471d3; /* Opcional: Borda branca ao redor da foto */
+}
+
 .footer-basic {
     padding: 50px 0;
     text-align: center;

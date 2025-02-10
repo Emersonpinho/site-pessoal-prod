@@ -71,6 +71,7 @@ const todosProjetos  = [
     },
     {
         titulo: '💾 Código Fonte deste site',
+        githubLink: 'https://github.com/Emersonpinho/site-pessoal-prod',
         descricao: 'SIMM! O Código fonte desse site é aberto e você pode usar livremente!🥳 Este projeto é uma combinação de HTML, CSS e JavaScript para criar uma página web interativa e visualmente atraente. Este é o código-fonte do meu site pessoal, onde compartilho informações sobre mim, meus projetos, e outras novidades. O objetivo é criar um espaço online que reflita minha personalidade e habilidades como desenvolvedor.',
         tipos: ['Html', 'css', 'Javascript'],
         tipoProjeto: 'Pessoal'

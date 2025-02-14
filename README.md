@@ -58,5 +58,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 ---
 
 Feito com ❤️ por [Emerson pinho](https://github.com/Emersonpinho)
-```
 

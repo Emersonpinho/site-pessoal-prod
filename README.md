@@ -53,7 +53,8 @@ Para executar este projeto localmente, siga os passos abaixo:
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## 📄 Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+Este projeto não possui uma licença específica.
 
 ---
 

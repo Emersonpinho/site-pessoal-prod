@@ -1,7 +1,7 @@
 .profile-picture {
     display: flex;
     justify-content: center; /* Centraliza a imagem */
-    margin-bottom: 10px; /* Dá um espaço entre a foto e o nome */
+    margin-bottom: 5px; /* Dá um espaço entre a foto e o nome */
 }
 
 .profile-pic {
